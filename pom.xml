@@ -11,7 +11,7 @@
 <!-- 		<springframework.version>3.2.8.RELEASE</springframework.version> -->
 		<springframework.version>4.2.1.RELEASE</springframework.version>
 	
-		<spring-security.version>3.2.3.RELEASE</spring-security.version>
+		<spring-security.version>5.5.7</spring-security.version>
 		<spring-security.oauth.version>1.0.0.RELEASE</spring-security.oauth.version>
 		<gson.version>2.2.2</gson.version>
 		<jackson.version>1.9.10</jackson.version>
